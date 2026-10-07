@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=nuvim
+Comment=Vim-based IDE distribution built with Fil-C
+Exec=nuvim %F
+Terminal=true
+Categories=Development;TextEditor;
+MimeType=text/plain;

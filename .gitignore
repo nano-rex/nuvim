@@ -1,0 +1,8 @@
+build/
+dist/
+.cache/
+.vim/
+*.log
+*.tmp
+tags
+Session.vim
