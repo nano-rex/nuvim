@@ -2,6 +2,7 @@ build/
 dist/
 .cache/
 .vim/
+config/nuvim/pack/nuvim/start/
 *.log
 *.tmp
 tags
